@@ -3,7 +3,7 @@
 Analisar como a normalização influencia no desempenho dos modelos RandomForestRegressor, AdaBoostRegressor e GradientBoostingRegressor utilizando métricas de avaliação.
 
 ## Tecnologias Utilizadas:
-Python,Pandas,NumPy,Scikit-learn
+Python, Pandas, NumPy, Scikit-learn
 
 ## Dados:
 O dataset utilizado contém informações sobre imóveis, incluindo:
